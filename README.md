@@ -2,7 +2,7 @@
 ![image alt](https://github.com/keemziatapex/Audit-Logs/blob/453455428ac6f310cadc3e9f056dba6bdd229cd2/Screenshot%202026-06-19%20060608.png)
 </p>
 <h1>Audit Logs for Users (Azure)</h1>
-This project outlines the process of viewing and interpreting Audit Logs of user accounts in
+This Lab outlines the process of viewing and interpreting Audit Logs of user accounts in
 Entra ID.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
